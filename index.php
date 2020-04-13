@@ -14,7 +14,6 @@
 		<link rel='stylesheet' href=./framepop/css/bootstrap.css />
 		<link rel='stylesheet' href=./framepop/css/bootstrap.min.css />
 		<link rel='stylesheet' href=./framepop/css/carousel.css />
-		<link rel='stylesheet' href=./framepop/css/blueimp-gallery.min.css />
 		<link rel='stylesheet' href=./style.css />
 		<link rel='stylesheet' href='style.css' />
 		<script src='./framepop/js/ie-emulation-modes-warning.js'></script>
@@ -68,7 +67,9 @@
 					<div class="col-md-8" id="logo">
 						<a href="http://fama939fm.com/"><img src="./img/logo.png" alt="Fama 93.9 FM"></a>
 					</div>
-					<div class="col-md-4" id="player"></div>
+					<div class="col-md-4" id="player">
+						<audio controls src='http://45.33.20.247:9035/fama939fm.aac' autoplay>
+					</div>
 				</div>
 			</div>
 		</header>
