@@ -92,7 +92,7 @@
 			<div class="container">
 				<div class="col-md-9">
 					<span id="copyright">Todos los Derechos Reservados por <strong><a href="http://fama939fm.com/"> Fama 93.9 FM</a></strong><br>
-					Desarrollo web <strong><a href="http://www.ledcreativo.com.ve" target="blank">LEDCreativo</a></strong></span>
+					Desarrollo web <strong><a href="http://www.ledcreativo.com.ve" target="blank">Codetomika - 2022</a></strong></span>
 				</div>
 
 				<div class="col-md-3">
